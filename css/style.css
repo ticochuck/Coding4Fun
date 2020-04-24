@@ -1,3 +1,24 @@
+html body {
+  height: 100%;
+  background-color: rosybrown;
+}
+
+
+header {
+  text-align: center;
+}
+
+input {
+  width: 100px;
+  height: 25px;
+  background-color: gainsboro;
+  
+}
 h1 {
   color: red;
+}
+
+
+footer {
+  text-align: center;
 }
